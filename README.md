@@ -44,6 +44,11 @@ To set up Django for your project, follow these steps:
 
 Congratulations! You have successfully set up Django for your project.
 
+# Create superuser
+To create a superuser in Django, run the following command in your terminal:
+python manage.py createsuperuser
+
+
 # Run in docker
 
     # Install docker in Window
